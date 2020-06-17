@@ -6,11 +6,11 @@ menu:
 
 # SubNav
 subnav:
-  mail: "https://mail.163.com/"
-  zhihu: "https://www.zhihu.com/people/gold-7-71" 
-  github: "https://github.com/Cherry-pellets"
-  weibo: "https://weibo.com/u/2786250990"
-  bilibili: "https://space.bilibili.com/389591884"
+  #mail: "https://mail.163.com/"
+  #zhihu: "https://www.zhihu.com/people/gold-7-71" 
+  #github: "https://github.com/Cherry-pellets"
+  #weibo: "https://weibo.com/u/2786250990"
+  #bilibili: "https://space.bilibili.com/389591884"
   #rss: "#"
   #qq: "#"
   #weixin: "#"
